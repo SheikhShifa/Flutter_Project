@@ -43,6 +43,10 @@ The app allows you to:
 
 5. lib/attendance_screen.dart: Handles attendance data for each member, allowing the user to view and manage attendance records.
 
+## SCREENSHOTS
+   1. ![image](https://github.com/user-attachments/assets/0a35d087-c9e1-4fc5-a71f-e8de5fbe792f)
+
+
  ## Steps to Run the Project:
 	1.	Create a new Flutter project in Android Studio.
 	2.	Place the above code files into the lib/ folder of your project.
