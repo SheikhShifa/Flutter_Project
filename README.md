@@ -46,10 +46,9 @@ The app allows you to:
  ## Steps to Run the Project:
 	1.	Create a new Flutter project in Android Studio.
 	2.	Place the above code files into the lib/ folder of your project.
-	3.	Add your Google Maps API key in the Android manifest as described earlier.
-	4.	Install the required dependencies (google_maps_flutter, flutter_polyline_points, etc.) in your pubspec.yaml.
-	5.	Run the project on an Android device or emulator.
-        NOTE : Make sure that you have installed the flutter and dart in your system.
+	3.	Install the required dependencies (google_maps_flutter, flutter_polyline_points, etc.) in your pubspec.yaml.
+	4.	Run the project on an Android device or emulator.
+    NOTE : Make sure that you have installed the flutter and dart in your system.
 
 ```
 FOR INSTALLATION OF FLUTTER AND DART IN ANDROID STUDIO REFER - https://youtu.be/BqHOtlh3Dd4?si=TsazyUifsAXCVEAJ
