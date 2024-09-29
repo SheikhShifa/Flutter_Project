@@ -60,7 +60,6 @@ The app allows you to:
 
 ```
 FOR INSTALLATION OF FLUTTER AND DART IN ANDROID STUDIO REFER - https://youtu.be/BqHOtlh3Dd4?si=TsazyUifsAXCVEAJ
-For help getting started with Flutter development, view thE online documentation (https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+For help getting started with Flutter development, view thE online documentation-https://docs.flutter.dev/,
+which offers tutorials,samples, guidance on mobile development, and a full API reference.
 ```
