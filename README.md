@@ -14,7 +14,6 @@ The app allows you to:
 - *Route History*: Shows a timeline of locations visited, along with details like total distance and stops.
   
 ## File Structure
-
 ```
 .
 ├── android/                     # Android-specific files
@@ -44,13 +43,13 @@ The app allows you to:
 
 5. lib/attendance_screen.dart: Handles attendance data for each member, allowing the user to view and manage attendance records.
 
- ## Steps to run flutter Project
-  1.	Create a new Flutter project in Android Studio.
+ ## Steps to Run the Project:
+	1.	Create a new Flutter project in Android Studio.
 	2.	Place the above code files into the lib/ folder of your project.
 	3.	Add your Google Maps API key in the Android manifest as described earlier.
 	4.	Install the required dependencies (google_maps_flutter, flutter_polyline_points, etc.) in your pubspec.yaml.
 	5.	Run the project on an Android device or emulator.
- NOTE : Make sure that you have installed the flutter and dart in your system.
+        NOTE : Make sure that you have installed the flutter and dart in your system.
 
 ```
 FOR INSTALLATION OF FLUTTER AND DART IN ANDROID STUDIO REFER - https://youtu.be/BqHOtlh3Dd4?si=TsazyUifsAXCVEAJ
